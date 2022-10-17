@@ -33,8 +33,7 @@ Bonuses:
 Assignment Example 1 Picture:    
     ![TBD](mysqlpic1.JPG)
 
-Assignment Example 2 Picture:
-    ![TBD](public/assets/website2.jpg)
+
 
 
 Git Repository link where finalzed project can be pulled:
