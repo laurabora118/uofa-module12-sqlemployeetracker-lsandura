@@ -31,16 +31,11 @@ Bonuses:
     Extra points for adding options for update employee managers. View employees by manager. View employees by department. Delete departments, roles, and employees. View the total utilized budget of a department—in other words, the combined salaries of all employees in that department.
 
 Assignment Example 1 Picture:    
-    ![TBD](public/assets/website1.jpg)
+    ![TBD](mysqlpic1.JPG)
 
 Assignment Example 2 Picture:
     ![TBD](public/assets/website2.jpg)
 
-Assignment Example 3 Picture:
-    ![TBD](public/assets/website3.jpg)
-
-Assignment Example 4 Picture:
-    ![TBD](public/assets/website4.jpg)
 
 Git Repository link where finalzed project can be pulled:
     [Git Repo](https://github.com/laurabora118/uofa-module12-sqlemployeetracker-lsandura)  
@@ -55,16 +50,13 @@ How to use, run or deploy a clone:
     npm i inquirer@8.2.4
     npm install console.table --save
     bower install console.table --save
-    After clone repo, must 
+    After clone repo, must mysql and source
 
 
 Video link of working app deployed: (if applicable)
-    [Video](tbd)  
+    [Video](https://watch.screencastify.com/v/QqfjID9QAKmivwPmeKhm)  
 
 References:
     1 - Assignment criteria received in UofA assignments
 
-    2 -
-
-    3 -
 
